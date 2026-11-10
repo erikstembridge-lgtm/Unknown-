@@ -1,0 +1,4 @@
+TEST FIXTURE - NOT REAL POLICY
+Sample Order 99.2 - Lost Property (invented text for software testing only)
+
+In this invented sample, found property such as a wallet or bicycle is logged at the front desk and held for ninety days. The finder receives a receipt. Unclaimed items are donated after the holding period ends and the log entry is closed.

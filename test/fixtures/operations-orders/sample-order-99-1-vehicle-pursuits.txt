@@ -1,0 +1,15 @@
+TEST FIXTURE - NOT REAL POLICY
+Sample Order 99.1 - Vehicle Pursuits (invented text for software testing only)
+Revised: 01/2020
+
+1. PURPOSE
+This invented sample exists only to test document splitting and search. It does not describe any agency's rules. A vehicle pursuit in this sample is an attempt to stop a fleeing driver.
+
+2. STARTING A PURSUIT
+In this invented sample, an officer may start a vehicle pursuit only for a violent felony. The officer must tell the radio dispatcher the location, direction, speed, and reason for the pursuit.
+
+3. SUPERVISOR DUTIES
+In this invented sample, a supervisor must monitor the pursuit by radio and must end it when the danger to the public outweighs the need to catch the driver.
+
+4. REPORTING
+In this invented sample, the officer completes a pursuit report before the end of the shift and the supervisor reviews it within seven days.
